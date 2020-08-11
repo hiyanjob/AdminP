@@ -1,1 +1,1 @@
-# AdminPanxx
+# Adminpanel
