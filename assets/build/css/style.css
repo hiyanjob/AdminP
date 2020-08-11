@@ -1,0 +1,79 @@
+.forgotpassword{
+	margin-left:-221px;
+}
+.forms{
+	border-radius: 0;
+	width: 100%
+	margin-top: 15px;
+}
+.form-label{
+margin-left: -221px;
+}
+.buttons{
+	margin-left:20px;
+    margin-top: 8px;
+}
+.line{
+	 margin-bottom: 20px;
+	content: ".";
+	display: block;
+	height: 0;
+	clear: both;
+	visibility: hidden
+}
+.content{
+	width: 20%
+	height:100%;
+	background-color:white; 
+}
+.x_contents {
+     padding: 0 5px 6px;
+     clear: both;
+     margin-top: 8px;
+}
+.pull-right{
+	border-radius: 5px;
+    color: white;
+    background-color: rgba(52,73,94,.94);
+
+}
+.theadcon{
+	background-color: rgba(52,73,94,.94);
+    color: white;
+}
+.seach{
+	color:white;
+/*	margin-left:8px;
+    margin-top: 24px;*/
+    background-color: rgba(52,73,94,.94);
+    height: 34px;
+    border-radius: 6px;
+}
+.butbutton{
+	color:white;
+/*	margin-left:286px;*/
+    /*margin-top: 24px;*/
+    background-color: rgba(52,73,94,.94);
+    height: 34px;
+    border-radius: 6px;
+}
+.navbar-right{
+	color: black;
+	/*margin-top: 17px;
+    margin-right: 70px;*/
+}
+.head{
+	margin-left: 7px;
+}
+.family{
+	color: darkslategray;
+    font-size: 16px;
+}
+.spanline{
+	font-size: 18px;
+    color: black;
+}
+.panel{
+	width: 250%;
+    height: 54rem;
+}
